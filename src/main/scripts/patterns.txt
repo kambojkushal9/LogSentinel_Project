@@ -1,0 +1,3 @@
+Failed password
+Connection refused
+Invalid user
